@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-
+// to be modified
 class ChatMessage {
   final String id;
   final String senderId;
